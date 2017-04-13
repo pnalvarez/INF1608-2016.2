@@ -1,0 +1,8 @@
+N1=(1-s-t+st-r+sr-rt-str) 
+N2=(1-s+t-st-r+sr-rt+str) 
+N3=(1+s+t+st-r-sr-rt-str)
+N4=(1+s-t-st-r-sr+rt+str)
+N5=(1-s-t+st+r-sr-rt+str)
+N6=(1-s+t-st+r-sr+rt-str)
+N7=(1+s+t+st+r+sr+rt+str)
+N8=(1+s-t-st+r+sr-rt-str)
